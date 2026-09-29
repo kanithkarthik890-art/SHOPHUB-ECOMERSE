@@ -532,15 +532,15 @@ Contributions and suggestions are welcome.
 # 👨‍💻 Developer
 
 ```text
-Sumit Yadav
+G KANITH KARTHIK
 
 B.Tech Computer Science & Engineering
 
 National Institute of Technology Patna
 
 GitHub:
+https://github.com/kanithkarthik890-art
 
-https://github.com/Sumit-Yadav2611
 
 ⭐ Show Your Support
 
